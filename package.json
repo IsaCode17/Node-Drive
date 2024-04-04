@@ -1,0 +1,13 @@
+{
+  "name": "Node-Drive",
+  "version": "1.0.0",
+  "description": "Una aplicación web para subir archivos a Google Drive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "googleapis": "^127.0.0"
+  }
+}
